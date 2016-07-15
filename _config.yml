@@ -1,7 +1,7 @@
 name: CathayAnchor
 favicon: null
-layout_spectrum: 0.3738807453773916
-typography_spectrum: 0.9144118316471577
+layout_spectrum: 0
+typography_spectrum: 0.36142
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7022737839724869
-  lightness: 0.18882729904726148
-  saturation: 0.478191566420719
-  rhythmicContrast: 0.6361130645964295
+    - '#050708'
+    - '#f9fbf7'
+    - '#102040'
+    - '#304e64'
+    - '#bdcfca'
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
